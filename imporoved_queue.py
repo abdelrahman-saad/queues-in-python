@@ -1,4 +1,4 @@
-import queue as q
+import LQueue as q
 
 
 class QueueOutOfRangeException(Exception):
